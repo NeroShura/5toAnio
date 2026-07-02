@@ -2,14 +2,14 @@
 
 ## Historia
 
-Las Bases de Datos Relacionales surgieron a finales de la década de 1960, cuando **Edgar F. Codd** introdujo la teoría matemática de las relaciones aplicada al almacenamiento de datos. En **1970** publicó el artículo **"A Relational Model of Data for Large Shared Data Banks"**, donde presentó el **Modelo Relacional**, que revolucionó la forma de organizar y administrar la información. 0
+Las Bases de Datos Relacionales surgieron a finales de la década de 1960, cuando **Edgar F. Codd** introdujo la teoría matemática de las relaciones aplicada al almacenamiento de datos. En **1970** publicó el artículo **"A Relational Model of Data for Large Shared Data Banks"**, donde presentó el **Modelo Relacional**, que revolucionó la forma de organizar y administrar la información.
 
 El modelo propuesto por Codd se basa en dos componentes:
 
 - **Estática:** define la estructura de las tablas y las restricciones.
 - **Dinámica:** utiliza el álgebra y el cálculo relacional para manipular los datos.
 
-Este modelo está fundamentado en la **teoría de conjuntos** y la **lógica de predicados de primer orden**, permitiendo representar la información de forma organizada mediante tablas relacionadas entre sí. 1
+Este modelo está fundamentado en la **teoría de conjuntos** y la **lógica de predicados de primer orden**, permitiendo representar la información de forma organizada mediante tablas relacionadas entre sí.
 
 ---
 
