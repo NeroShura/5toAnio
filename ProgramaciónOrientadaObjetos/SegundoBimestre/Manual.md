@@ -1,4 +1,4 @@
-# Resumen del Manual de Programación Orientada a Objetos en Processing
+# Manual de Programación Orientada a Objetos en Processing
 
 # Introducción
 
